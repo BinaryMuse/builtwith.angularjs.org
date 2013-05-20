@@ -1342,7 +1342,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1506,6 +1506,26 @@
         "CSS3",
         "Mobile",
         "jQuery"
+      ]
+    },
+    {
+      "name": "Learnist",
+      "thumb": "learnist/thumb.png",
+      "desc": "Learnist makes it super easy to share what you know by curating the web. You can create a board on any topic and then curate videos, blogs, books, docs, images or anything on the web to explain how to learn something.",
+      "url": "http://learni.st",
+      "info": "http://learni.st/welcome",
+      "submitter": "BinaryMuse",
+      "submissionDate": "2013-05-20",
+      "tags": [
+        "Production",
+        "Education",
+        "jQuery",
+        "CSS3",
+        "Compass",
+        "Ruby on Rails",
+        "Drag and Drop",
+        "Zenbox",
+        "Select2"
       ]
     }
   ]
